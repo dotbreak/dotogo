@@ -1,11 +1,12 @@
-![dotogo](images/dotogo-logo.png)
+
+<img src="images/dotogo-logo.png" alt="dotogo logo"  height="150px"/>
 
 **dotogo** is a powerful todo app, showing an overview of upcoming work at a glance. Is is built on [Electron](https://github.com/atom/electron), and uses [Taskwarrior](https://github.com/taskwarrior/task) as a backend.
 
 Visit [dotogo.app](https://dotogo.app) to learn more or visit the [dotogo forum](https://forum.dotogo.app).
 
 This project adheres to the Contributor Covenant [code of conduct](code-of-conduct.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior to dotogo@github.com.
+By participating, you are expected to uphold this code. Please report unacceptable behavior to code@dotogo.app.
 
 # why
 
